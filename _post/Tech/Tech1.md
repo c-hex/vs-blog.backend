@@ -1,11 +1,12 @@
 ---
-tag: ["기술", "리뷰"]
+tag: ["기술", "리뷰", "Test"]
 date: "2022-11-10"
+thumnail: "http://localhost:4000/a.jpg"
 ---
 
 # Lorem ipsum dolor sit amet.
 
-`Lorem` ipsum dolor sit amet consectetur adipisicing elit. Quis deserunt inventore eligendi facere est nesciunt fugiat consequuntur nostrum veritatis. **Et necessitatibus exercitationem sint molestiae commodi alias dignissimos magni dicta suscipit!**
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis deserunt inventore eligendi facere est nesciunt fugiat consequuntur nostrum veritatis. **Et necessitatibus exercitationem sint molestiae commodi alias dignissimos magni dicta suscipit!**
 
 Repudiandae est repellat libero sapiente dolores adipisci nam unde quae velit porro quod iusto a ab earum dolore facilis aliquid, dolorum magnam! Iure, sit voluptates asperiores tempora doloremque vitae delectus?
 Delectus at voluptas, ea molestias animi possimus dolores voluptate rerum beatae, dolorum quisquam quas illum temporibus unde nisi quod, iure laboriosam aliquam iste repellat? Exercitationem odit iste autem consequuntur officia!
@@ -33,11 +34,7 @@ function Counter () {
 }
 ```
 
-1. Lorem ipsum dolor sit amet.
-2. Lorem ipsum dolor sit amet.
-3. Lorem ipsum dolor sit amet.
-4. Lorem ipsum dolor sit amet.
-5. **Lorem ipsum dolor sit amet.**
+**Lorem ipsum dolor sit amet.**
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit.
 
